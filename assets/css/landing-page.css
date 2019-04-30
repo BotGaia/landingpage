@@ -838,7 +838,7 @@ a:focus, a:active {
 .logo-container .logo{
     overflow: hidden;
     border-radius: 50%;
-    border: 1px solid #333333;
+    border: 1px solid white;
     width: 50px; 
     float: left;
 }
@@ -1693,4 +1693,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     .landing-page .navbar-top{
         padding-top: 10px;
     }
+}
+
+.text-sport{
+  margin-left: 5em !important;
 }
